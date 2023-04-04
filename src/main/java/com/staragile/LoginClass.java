@@ -4,6 +4,6 @@ public class LoginClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Dynamic project");
+		System.out.println("Dynamic project in develop branch");
 	}
 }
