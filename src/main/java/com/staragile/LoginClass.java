@@ -8,4 +8,6 @@ public class LoginClass {
 	}
          public static function1(){
 {
+         public static function3(){
+}
 }
