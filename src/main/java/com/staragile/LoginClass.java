@@ -6,4 +6,8 @@ public class LoginClass {
 		// TODO Auto-generated method stub
 		System.out.println("Dynamic project in develop branch");
 	}
+         public static function1(){
+{
+         public static function3(){
+}
 }
